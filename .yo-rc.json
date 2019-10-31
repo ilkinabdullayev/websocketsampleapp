@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "websocketsampleapp",
+    "packageName": "com.broadcom.websocketsampleapp",
+    "packageFolder": "com/broadcom/websocketsampleapp",
+    "serverPort": 7272,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.4.1",
+    "jwtSecretKey": "Yzg1Y2YyN2E3ODA4ZmQ1MTRiMTNhNDczN2M5MDBhZjkzMjliMjdhYjQxZDJmOWJmMDE1NjZjMDlkMTViMjhlMDE4NWI5MDY1ZGVhMjAyYjgyMDJhOWM3YWYwM2I5NjRlMTRjNmI4YTcxMDFiNGQ4OGE5NDA3YjcwY2VhN2RkNjM=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "ilkinabdullayev",
+  "repository-name": "websocketsampleapp"
+}
